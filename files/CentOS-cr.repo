@@ -1,0 +1,5 @@
+[cr]
+name=CentOS-$releasever - cr
+baseurl=http://mirror.ovh.net/ftp.centos.org/$releasever/cr/$basearch/
+gpgcheck=0
+
